@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005f6000001piv4AAA",
+      "createdByName": "Sowmya Panithi",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Knowledge__kav-en_US.objectTranslation",
+      "fullName": "Knowledge__kav-en_US",
+      "id": "",
+      "lastModifiedById": "005f6000001piv4AAA",
+      "lastModifiedByName": "Sowmya Panithi",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    }
+  ]
+}
